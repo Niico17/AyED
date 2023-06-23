@@ -1,1 +1,1 @@
-
+Se busca iterar las veces necesarias hasta estar dentro del parametro dado, como indicio de que estamos dentro de la precision deseada (Se resta la precision obligatoria, es decir, los digitos obligatorios que me debe de tener el resultado, con el valor obtenido de las iteraciones que me coloque en medio de ese parametro).
